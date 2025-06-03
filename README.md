@@ -43,7 +43,7 @@
 ```
 cd c:/macrotester
 ```
-или в Линксе:
+или в Линуксе:
 ```
 cd  /home/user/macrotester
 ```
