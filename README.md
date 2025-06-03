@@ -109,4 +109,4 @@ Checking macro: error ~!@
 - Сайт: [Р7-Консалт](https://r7-consult.ru/)
 - Email: er@exceldb.pro
 - Телефон: +7 915 258-0371
-- Telegram: https://t.me/r7\_js
+- Telegram: https://t.me/r7_js
