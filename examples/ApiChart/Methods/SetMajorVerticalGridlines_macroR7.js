@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiChart/Methods/SetMajorVerticalGridlines.js
+ * OnlyOffice JavaScript макрос - ApiChart.SetMajorVerticalGridlines
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetMajorVerticalGridlines класса ApiChart
+ * https://r7-consult.ru/
  */
 
 (function() {

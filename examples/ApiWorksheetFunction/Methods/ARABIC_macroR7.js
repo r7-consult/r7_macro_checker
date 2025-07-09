@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/ARABIC.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.ARABIC
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода ARABIC класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

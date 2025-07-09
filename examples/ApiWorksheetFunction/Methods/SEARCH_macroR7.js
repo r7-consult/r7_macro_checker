@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/SEARCH.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.SEARCH
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SEARCH класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

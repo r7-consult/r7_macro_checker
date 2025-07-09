@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiComment/Methods/SetTimeUTC.js
+ * OnlyOffice JavaScript макрос - ApiComment.SetTimeUTC
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetTimeUTC класса ApiComment
+ * https://r7-consult.ru/
  */
 
 (function() {

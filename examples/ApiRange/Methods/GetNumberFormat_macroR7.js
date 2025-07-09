@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiRange/Methods/GetNumberFormat.js
+ * OnlyOffice JavaScript макрос - ApiRange.GetNumberFormat
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetNumberFormat класса ApiRange
+ * https://r7-consult.ru/
  */
 
 (function() {

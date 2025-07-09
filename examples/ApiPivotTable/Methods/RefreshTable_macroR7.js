@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotTable/Methods/RefreshTable.js
+ * OnlyOffice JavaScript макрос - ApiPivotTable.RefreshTable
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода RefreshTable класса ApiPivotTable
+ * https://r7-consult.ru/
  */
 
 (function() {

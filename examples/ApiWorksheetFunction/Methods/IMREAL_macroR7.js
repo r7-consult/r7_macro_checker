@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/IMREAL.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.IMREAL
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода IMREAL класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

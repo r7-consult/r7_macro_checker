@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiParagraph/Methods/AddLineBreak.js
+ * OnlyOffice JavaScript макрос - ApiParagraph.AddLineBreak
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода AddLineBreak класса ApiParagraph
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiRun/Methods/SetShd.js
+ * OnlyOffice JavaScript макрос - ApiRun.SetShd
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetShd класса ApiRun
+ * https://r7-consult.ru/
  */
 
 (function() {

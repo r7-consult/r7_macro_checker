@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotTable/Methods/GetStyleName.js
+ * OnlyOffice JavaScript макрос - ApiPivotTable.GetStyleName
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetStyleName класса ApiPivotTable
+ * https://r7-consult.ru/
  */
 
 (function() {

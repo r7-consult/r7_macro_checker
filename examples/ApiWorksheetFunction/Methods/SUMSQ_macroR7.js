@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/SUMSQ.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.SUMSQ
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SUMSQ класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

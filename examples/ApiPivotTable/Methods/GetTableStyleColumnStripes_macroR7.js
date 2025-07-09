@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotTable/Methods/GetTableStyleColumnStripes.js
+ * OnlyOffice JavaScript макрос - ApiPivotTable.GetTableStyleColumnStripes
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetTableStyleColumnStripes класса ApiPivotTable
+ * https://r7-consult.ru/
  */
 
 (function() {

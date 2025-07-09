@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiCommentReply/Methods/GetClassType.js
+ * OnlyOffice JavaScript макрос - ApiCommentReply.GetClassType
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetClassType класса ApiCommentReply
+ * https://r7-consult.ru/
  */
 
 (function() {

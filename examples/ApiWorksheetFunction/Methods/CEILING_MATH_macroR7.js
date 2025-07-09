@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/CEILING_MATH.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.CEILING_MATH
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода CEILING_MATH класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

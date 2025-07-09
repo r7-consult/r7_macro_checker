@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/OCT2BIN.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.OCT2BIN
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода OCT2BIN класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

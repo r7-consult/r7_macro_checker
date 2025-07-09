@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheet/Methods/Paste.js
+ * OnlyOffice JavaScript макрос - ApiWorksheet.Paste
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода Paste класса ApiWorksheet
+ * https://r7-consult.ru/
  */
 
 (function() {

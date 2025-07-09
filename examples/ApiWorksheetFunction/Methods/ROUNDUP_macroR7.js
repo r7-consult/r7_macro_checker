@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/ROUNDUP.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.ROUNDUP
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода ROUNDUP класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

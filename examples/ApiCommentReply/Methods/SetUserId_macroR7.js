@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiCommentReply/Methods/SetUserId.js
+ * OnlyOffice JavaScript макрос - ApiCommentReply.SetUserId
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetUserId класса ApiCommentReply
+ * https://r7-consult.ru/
  */
 
 (function() {

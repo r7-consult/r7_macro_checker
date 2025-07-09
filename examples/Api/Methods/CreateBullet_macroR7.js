@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: Api/Methods/CreateBullet.js
+ * OnlyOffice JavaScript макрос - Api.CreateBullet
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода CreateBullet класса Api
+ * https://r7-consult.ru/
  */
 
 (function() {

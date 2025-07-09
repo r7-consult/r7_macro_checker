@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/PERMUTATIONA.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.PERMUTATIONA
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода PERMUTATIONA класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

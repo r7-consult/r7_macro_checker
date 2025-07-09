@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/GAUSS.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.GAUSS
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GAUSS класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

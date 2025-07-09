@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotDataField/Methods/GetNumberFormat.js
+ * OnlyOffice JavaScript макрос - ApiPivotDataField.GetNumberFormat
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetNumberFormat класса ApiPivotDataField
+ * https://r7-consult.ru/
  */
 
 (function() {

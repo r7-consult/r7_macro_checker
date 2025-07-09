@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiAreas/Methods/GetParent.js
+ * OnlyOffice JavaScript макрос - ApiAreas.GetParent
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetParent класса ApiAreas
+ * https://r7-consult.ru/
  */
 
 (function() {

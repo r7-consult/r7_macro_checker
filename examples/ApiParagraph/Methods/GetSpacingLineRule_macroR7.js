@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiParagraph/Methods/GetSpacingLineRule.js
+ * OnlyOffice JavaScript макрос - ApiParagraph.GetSpacingLineRule
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetSpacingLineRule класса ApiParagraph
+ * https://r7-consult.ru/
  */
 
 (function() {

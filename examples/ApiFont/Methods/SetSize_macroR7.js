@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiFont/Methods/SetSize.js
+ * OnlyOffice JavaScript макрос - ApiFont.SetSize
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetSize класса ApiFont
+ * https://r7-consult.ru/
  */
 
 (function() {

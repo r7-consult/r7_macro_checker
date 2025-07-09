@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/DAYS360.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.DAYS360
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода DAYS360 класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

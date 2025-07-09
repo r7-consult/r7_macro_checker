@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/XOR.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.XOR
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода XOR класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

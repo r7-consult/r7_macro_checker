@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiCore/Methods/GetClassType.js
+ * OnlyOffice JavaScript макрос - ApiCore.GetClassType
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetClassType класса ApiCore
+ * https://r7-consult.ru/
  */
 
 (function() {

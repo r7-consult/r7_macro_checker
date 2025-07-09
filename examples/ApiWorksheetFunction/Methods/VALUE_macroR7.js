@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/VALUE.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.VALUE
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода VALUE класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

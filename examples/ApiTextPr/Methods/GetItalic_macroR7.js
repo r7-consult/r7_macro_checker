@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiTextPr/Methods/GetItalic.js
+ * OnlyOffice JavaScript макрос - ApiTextPr.GetItalic
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetItalic класса ApiTextPr
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/NORMDIST.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.NORMDIST
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода NORMDIST класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

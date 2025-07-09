@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/BITLSHIFT.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.BITLSHIFT
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода BITLSHIFT класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

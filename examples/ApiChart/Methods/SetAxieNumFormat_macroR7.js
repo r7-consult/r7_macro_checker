@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiChart/Methods/SetAxieNumFormat.js
+ * OnlyOffice JavaScript макрос - ApiChart.SetAxieNumFormat
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetAxieNumFormat класса ApiChart
+ * https://r7-consult.ru/
  */
 
 (function() {

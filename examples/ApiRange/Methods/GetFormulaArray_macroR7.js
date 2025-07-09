@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiRange/Methods/GetFormulaArray.js
+ * OnlyOffice JavaScript макрос - ApiRange.GetFormulaArray
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetFormulaArray класса ApiRange
+ * https://r7-consult.ru/
  */
 
 (function() {

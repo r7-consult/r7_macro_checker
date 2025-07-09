@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiChartSeries/Methods/GetChartType.js
+ * OnlyOffice JavaScript макрос - ApiChartSeries.GetChartType
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetChartType класса ApiChartSeries
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiRange/Methods/SetAlignVertical.js
+ * OnlyOffice JavaScript макрос - ApiRange.SetAlignVertical
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetAlignVertical класса ApiRange
+ * https://r7-consult.ru/
  */
 
 (function() {

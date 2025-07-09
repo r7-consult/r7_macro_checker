@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: Api/Methods/CreateRadialGradientFill.js
+ * OnlyOffice JavaScript макрос - Api.CreateRadialGradientFill
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода CreateRadialGradientFill класса Api
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotDataField/Methods/SetCaption.js
+ * OnlyOffice JavaScript макрос - ApiPivotDataField.SetCaption
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetCaption класса ApiPivotDataField
+ * https://r7-consult.ru/
  */
 
 (function() {

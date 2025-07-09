@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotDataField/Methods/GetIndex.js
+ * OnlyOffice JavaScript макрос - ApiPivotDataField.GetIndex
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetIndex класса ApiPivotDataField
+ * https://r7-consult.ru/
  */
 
 (function() {

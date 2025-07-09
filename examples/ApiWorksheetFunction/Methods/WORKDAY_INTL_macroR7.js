@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/WORKDAY_INTL.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.WORKDAY_INTL
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода WORKDAY_INTL класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

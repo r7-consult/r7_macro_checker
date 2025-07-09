@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/NORM_DIST.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.NORM_DIST
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода NORM_DIST класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

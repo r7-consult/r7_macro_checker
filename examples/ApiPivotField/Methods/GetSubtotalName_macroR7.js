@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotField/Methods/GetSubtotalName.js
+ * OnlyOffice JavaScript макрос - ApiPivotField.GetSubtotalName
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetSubtotalName класса ApiPivotField
+ * https://r7-consult.ru/
  */
 
 (function() {

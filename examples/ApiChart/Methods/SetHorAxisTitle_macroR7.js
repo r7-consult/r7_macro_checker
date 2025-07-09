@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiChart/Methods/SetHorAxisTitle.js
+ * OnlyOffice JavaScript макрос - ApiChart.SetHorAxisTitle
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetHorAxisTitle класса ApiChart
+ * https://r7-consult.ru/
  */
 
 (function() {

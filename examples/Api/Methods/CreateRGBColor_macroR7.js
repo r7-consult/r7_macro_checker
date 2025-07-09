@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: Api/Methods/CreateRGBColor.js
+ * OnlyOffice JavaScript макрос - Api.CreateRGBColor
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода CreateRGBColor класса Api
+ * https://r7-consult.ru/
  */
 
 (function() {

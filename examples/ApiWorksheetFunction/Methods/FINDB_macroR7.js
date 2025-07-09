@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/FINDB.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.FINDB
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода FINDB класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

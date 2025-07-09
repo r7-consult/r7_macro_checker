@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/EXPONDIST.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.EXPONDIST
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода EXPONDIST класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

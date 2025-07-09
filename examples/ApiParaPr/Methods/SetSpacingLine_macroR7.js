@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiParaPr/Methods/SetSpacingLine.js
+ * OnlyOffice JavaScript макрос - ApiParaPr.SetSpacingLine
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetSpacingLine класса ApiParaPr
+ * https://r7-consult.ru/
  */
 
 (function() {

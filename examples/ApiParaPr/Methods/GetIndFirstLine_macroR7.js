@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiParaPr/Methods/GetIndFirstLine.js
+ * OnlyOffice JavaScript макрос - ApiParaPr.GetIndFirstLine
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetIndFirstLine класса ApiParaPr
+ * https://r7-consult.ru/
  */
 
 (function() {

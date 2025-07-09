@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiDrawing/Methods/SetRotation.js
+ * OnlyOffice JavaScript макрос - ApiDrawing.SetRotation
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetRotation класса ApiDrawing
+ * https://r7-consult.ru/
  */
 
 (function() {

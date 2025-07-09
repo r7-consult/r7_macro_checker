@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/MEDIAN.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.MEDIAN
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода MEDIAN класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

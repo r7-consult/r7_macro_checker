@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/VARPA.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.VARPA
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода VARPA класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

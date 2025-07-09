@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiRun/Methods/GetFontNames.js
+ * OnlyOffice JavaScript макрос - ApiRun.GetFontNames
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetFontNames класса ApiRun
+ * https://r7-consult.ru/
  */
 
 (function() {

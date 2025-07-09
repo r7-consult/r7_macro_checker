@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/SHEETS.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.SHEETS
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SHEETS класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

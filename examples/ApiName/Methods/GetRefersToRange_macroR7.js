@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiName/Methods/GetRefersToRange.js
+ * OnlyOffice JavaScript макрос - ApiName.GetRefersToRange
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetRefersToRange класса ApiName
+ * https://r7-consult.ru/
  */
 
 (function() {

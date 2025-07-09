@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiParaPr/Methods/GetSpacingLineValue.js
+ * OnlyOffice JavaScript макрос - ApiParaPr.GetSpacingLineValue
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetSpacingLineValue класса ApiParaPr
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/HOUR.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.HOUR
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода HOUR класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

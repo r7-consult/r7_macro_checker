@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/IMCSC.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.IMCSC
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода IMCSC класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

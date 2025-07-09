@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiChartSeries/Methods/ChangeChartType.js
+ * OnlyOffice JavaScript макрос - ApiChartSeries.ChangeChartType
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода ChangeChartType класса ApiChartSeries
+ * https://r7-consult.ru/
  */
 
 (function() {

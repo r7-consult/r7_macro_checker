@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheet/Methods/GetRangeByNumber.js
+ * OnlyOffice JavaScript макрос - ApiWorksheet.GetRangeByNumber
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetRangeByNumber класса ApiWorksheet
+ * https://r7-consult.ru/
  */
 
 (function() {

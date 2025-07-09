@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiDocumentContent/Methods/AddElement.js
+ * OnlyOffice JavaScript макрос - ApiDocumentContent.AddElement
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода AddElement класса ApiDocumentContent
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotTable/Methods/GetTableRange1.js
+ * OnlyOffice JavaScript макрос - ApiPivotTable.GetTableRange1
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetTableRange1 класса ApiPivotTable
+ * https://r7-consult.ru/
  */
 
 (function() {

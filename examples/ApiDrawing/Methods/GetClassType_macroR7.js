@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiDrawing/Methods/GetClassType.js
+ * OnlyOffice JavaScript макрос - ApiDrawing.GetClassType
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetClassType класса ApiDrawing
+ * https://r7-consult.ru/
  */
 
 (function() {

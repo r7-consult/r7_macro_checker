@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiRun/Methods/SetBold.js
+ * OnlyOffice JavaScript макрос - ApiRun.SetBold
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetBold класса ApiRun
+ * https://r7-consult.ru/
  */
 
 (function() {

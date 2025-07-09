@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiUniColor/Methods/GetClassType.js
+ * OnlyOffice JavaScript макрос - ApiUniColor.GetClassType
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetClassType класса ApiUniColor
+ * https://r7-consult.ru/
  */
 
 (function() {

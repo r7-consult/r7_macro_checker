@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotTable/Methods/GetTableStyleRowStripes.js
+ * OnlyOffice JavaScript макрос - ApiPivotTable.GetTableStyleRowStripes
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetTableStyleRowStripes класса ApiPivotTable
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotTable/Methods/ShowDetails.js
+ * OnlyOffice JavaScript макрос - ApiPivotTable.ShowDetails
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода ShowDetails класса ApiPivotTable
+ * https://r7-consult.ru/
  */
 
 (function() {

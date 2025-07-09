@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiFont/Methods/SetColor.js
+ * OnlyOffice JavaScript макрос - ApiFont.SetColor
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetColor класса ApiFont
+ * https://r7-consult.ru/
  */
 
 (function() {

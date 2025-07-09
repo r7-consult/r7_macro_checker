@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiCore/Methods/SetCreated.js
+ * OnlyOffice JavaScript макрос - ApiCore.SetCreated
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetCreated класса ApiCore
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiComment/Methods/GetReply.js
+ * OnlyOffice JavaScript макрос - ApiComment.GetReply
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetReply класса ApiComment
+ * https://r7-consult.ru/
  */
 
 (function() {

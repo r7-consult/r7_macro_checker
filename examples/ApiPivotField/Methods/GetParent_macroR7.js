@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotField/Methods/GetParent.js
+ * OnlyOffice JavaScript макрос - ApiPivotField.GetParent
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetParent класса ApiPivotField
+ * https://r7-consult.ru/
  */
 
 (function() {

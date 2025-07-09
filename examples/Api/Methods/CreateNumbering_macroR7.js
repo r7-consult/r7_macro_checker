@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: Api/Methods/CreateNumbering.js
+ * OnlyOffice JavaScript макрос - Api.CreateNumbering
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода CreateNumbering класса Api
+ * https://r7-consult.ru/
  */
 
 (function() {

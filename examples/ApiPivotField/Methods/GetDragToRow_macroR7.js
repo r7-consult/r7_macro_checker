@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotField/Methods/GetDragToRow.js
+ * OnlyOffice JavaScript макрос - ApiPivotField.GetDragToRow
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetDragToRow класса ApiPivotField
+ * https://r7-consult.ru/
  */
 
 (function() {

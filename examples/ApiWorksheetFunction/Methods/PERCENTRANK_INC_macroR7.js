@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/PERCENTRANK_INC.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.PERCENTRANK_INC
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода PERCENTRANK_INC класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

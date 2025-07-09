@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotTable/Methods/GetDisplayFieldsInReportFilterArea.js
+ * OnlyOffice JavaScript макрос - ApiPivotTable.GetDisplayFieldsInReportFilterArea
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetDisplayFieldsInReportFilterArea класса ApiPivotTable
+ * https://r7-consult.ru/
  */
 
 (function() {

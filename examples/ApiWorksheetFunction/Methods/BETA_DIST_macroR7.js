@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/BETA_DIST.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.BETA_DIST
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода BETA_DIST класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

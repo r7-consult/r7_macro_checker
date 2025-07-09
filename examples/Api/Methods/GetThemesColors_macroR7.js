@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: Api/Methods/GetThemesColors.js
+ * OnlyOffice JavaScript макрос - Api.GetThemesColors
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetThemesColors класса Api
+ * https://r7-consult.ru/
  */
 
 (function() {

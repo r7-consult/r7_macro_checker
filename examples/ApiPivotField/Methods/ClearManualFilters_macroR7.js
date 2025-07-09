@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotField/Methods/ClearManualFilters.js
+ * OnlyOffice JavaScript макрос - ApiPivotField.ClearManualFilters
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода ClearManualFilters класса ApiPivotField
+ * https://r7-consult.ru/
  */
 
 (function() {

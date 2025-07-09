@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiDrawing/Methods/GetHeight.js
+ * OnlyOffice JavaScript макрос - ApiDrawing.GetHeight
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetHeight класса ApiDrawing
+ * https://r7-consult.ru/
  */
 
 (function() {

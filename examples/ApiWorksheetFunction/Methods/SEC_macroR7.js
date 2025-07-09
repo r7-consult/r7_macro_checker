@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/SEC.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.SEC
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SEC класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

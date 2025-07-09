@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/GESTEP.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.GESTEP
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GESTEP класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/CONFIDENCE_NORM.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.CONFIDENCE_NORM
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода CONFIDENCE_NORM класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

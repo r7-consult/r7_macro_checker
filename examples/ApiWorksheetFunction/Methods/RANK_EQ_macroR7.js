@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/RANK_EQ.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.RANK_EQ
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода RANK_EQ класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

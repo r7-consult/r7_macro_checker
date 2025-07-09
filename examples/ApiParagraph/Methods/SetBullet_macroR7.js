@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiParagraph/Methods/SetBullet.js
+ * OnlyOffice JavaScript макрос - ApiParagraph.SetBullet
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetBullet класса ApiParagraph
+ * https://r7-consult.ru/
  */
 
 (function() {

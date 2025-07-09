@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/CHISQ_DIST_RT.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.CHISQ_DIST_RT
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода CHISQ_DIST_RT класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

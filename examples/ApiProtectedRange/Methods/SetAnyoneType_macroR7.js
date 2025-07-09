@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiProtectedRange/Methods/SetAnyoneType.js
+ * OnlyOffice JavaScript макрос - ApiProtectedRange.SetAnyoneType
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetAnyoneType класса ApiProtectedRange
+ * https://r7-consult.ru/
  */
 
 (function() {

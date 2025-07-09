@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiProtectedRangeUserInfo/Methods/GetType.js
+ * OnlyOffice JavaScript макрос - ApiProtectedRangeUserInfo.GetType
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetType класса ApiProtectedRangeUserInfo
+ * https://r7-consult.ru/
  */
 
 (function() {

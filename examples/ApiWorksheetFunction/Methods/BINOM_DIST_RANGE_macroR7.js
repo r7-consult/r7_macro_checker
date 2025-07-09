@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/BINOM_DIST_RANGE.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.BINOM_DIST_RANGE
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода BINOM_DIST_RANGE класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/NEGBINOM_DIST.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.NEGBINOM_DIST
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода NEGBINOM_DIST класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

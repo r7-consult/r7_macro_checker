@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiCore/Methods/GetVersion.js
+ * OnlyOffice JavaScript макрос - ApiCore.GetVersion
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetVersion класса ApiCore
+ * https://r7-consult.ru/
  */
 
 (function() {

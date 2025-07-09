@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotTable/Methods/ClearAllFilters.js
+ * OnlyOffice JavaScript макрос - ApiPivotTable.ClearAllFilters
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода ClearAllFilters класса ApiPivotTable
+ * https://r7-consult.ru/
  */
 
 (function() {

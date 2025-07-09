@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiCharacters/Methods/GetParent.js
+ * OnlyOffice JavaScript макрос - ApiCharacters.GetParent
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetParent класса ApiCharacters
+ * https://r7-consult.ru/
  */
 
 (function() {

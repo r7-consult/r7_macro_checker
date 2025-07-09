@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/IMPRODUCT.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.IMPRODUCT
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода IMPRODUCT класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiAreas/Methods/GetItem.js
+ * OnlyOffice JavaScript макрос - ApiAreas.GetItem
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetItem класса ApiAreas
+ * https://r7-consult.ru/
  */
 
 (function() {

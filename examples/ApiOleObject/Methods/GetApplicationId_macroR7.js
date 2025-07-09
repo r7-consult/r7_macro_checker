@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiOleObject/Methods/GetApplicationId.js
+ * OnlyOffice JavaScript макрос - ApiOleObject.GetApplicationId
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetApplicationId класса ApiOleObject
+ * https://r7-consult.ru/
  */
 
 (function() {

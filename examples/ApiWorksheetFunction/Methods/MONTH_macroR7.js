@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/MONTH.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.MONTH
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода MONTH класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

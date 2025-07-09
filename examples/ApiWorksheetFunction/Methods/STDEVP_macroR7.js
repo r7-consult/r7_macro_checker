@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/STDEVP.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.STDEVP
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода STDEVP класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

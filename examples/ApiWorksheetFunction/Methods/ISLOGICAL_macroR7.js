@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/ISLOGICAL.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.ISLOGICAL
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода ISLOGICAL класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

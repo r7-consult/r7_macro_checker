@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiChart/Methods/GetAllSeries.js
+ * OnlyOffice JavaScript макрос - ApiChart.GetAllSeries
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetAllSeries класса ApiChart
+ * https://r7-consult.ru/
  */
 
 (function() {

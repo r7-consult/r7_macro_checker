@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/F_DIST_RT.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.F_DIST_RT
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода F_DIST_RT класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

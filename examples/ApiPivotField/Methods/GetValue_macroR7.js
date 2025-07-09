@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotField/Methods/GetValue.js
+ * OnlyOffice JavaScript макрос - ApiPivotField.GetValue
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetValue класса ApiPivotField
+ * https://r7-consult.ru/
  */
 
 (function() {

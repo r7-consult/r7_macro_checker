@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiCharacters/Methods/SetText.js
+ * OnlyOffice JavaScript макрос - ApiCharacters.SetText
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetText класса ApiCharacters
+ * https://r7-consult.ru/
  */
 
 (function() {

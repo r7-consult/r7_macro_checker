@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiParagraph/Methods/AddText.js
+ * OnlyOffice JavaScript макрос - ApiParagraph.AddText
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода AddText класса ApiParagraph
+ * https://r7-consult.ru/
  */
 
 (function() {

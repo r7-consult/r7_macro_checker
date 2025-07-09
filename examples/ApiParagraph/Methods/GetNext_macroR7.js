@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiParagraph/Methods/GetNext.js
+ * OnlyOffice JavaScript макрос - ApiParagraph.GetNext
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetNext класса ApiParagraph
+ * https://r7-consult.ru/
  */
 
 (function() {

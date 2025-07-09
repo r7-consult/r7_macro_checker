@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiParagraph/Methods/AddTabStop.js
+ * OnlyOffice JavaScript макрос - ApiParagraph.AddTabStop
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода AddTabStop класса ApiParagraph
+ * https://r7-consult.ru/
  */
 
 (function() {

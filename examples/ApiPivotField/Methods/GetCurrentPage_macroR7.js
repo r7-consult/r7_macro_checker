@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotField/Methods/GetCurrentPage.js
+ * OnlyOffice JavaScript макрос - ApiPivotField.GetCurrentPage
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetCurrentPage класса ApiPivotField
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiComment/Methods/GetText.js
+ * OnlyOffice JavaScript макрос - ApiComment.GetText
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetText класса ApiComment
+ * https://r7-consult.ru/
  */
 
 (function() {

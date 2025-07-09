@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/AMORDEGRC.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.AMORDEGRC
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода AMORDEGRC класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

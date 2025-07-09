@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiShape/Methods/SetVerticalTextAlign.js
+ * OnlyOffice JavaScript макрос - ApiShape.SetVerticalTextAlign
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetVerticalTextAlign класса ApiShape
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiName/Methods/GetRefersTo.js
+ * OnlyOffice JavaScript макрос - ApiName.GetRefersTo
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetRefersTo класса ApiName
+ * https://r7-consult.ru/
  */
 
 (function() {

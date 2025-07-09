@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/WEIBULL.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.WEIBULL
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода WEIBULL класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

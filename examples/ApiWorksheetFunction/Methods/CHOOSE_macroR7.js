@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/CHOOSE.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.CHOOSE
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода CHOOSE класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

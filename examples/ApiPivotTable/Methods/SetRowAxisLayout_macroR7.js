@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotTable/Methods/SetRowAxisLayout.js
+ * OnlyOffice JavaScript макрос - ApiPivotTable.SetRowAxisLayout
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetRowAxisLayout класса ApiPivotTable
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/BIN2HEX.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.BIN2HEX
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода BIN2HEX класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

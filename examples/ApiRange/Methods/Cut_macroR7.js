@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiRange/Methods/Cut.js
+ * OnlyOffice JavaScript макрос - ApiRange.Cut
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода Cut класса ApiRange
+ * https://r7-consult.ru/
  */
 
 (function() {

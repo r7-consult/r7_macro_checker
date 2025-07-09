@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotDataField/Methods/SetValue.js
+ * OnlyOffice JavaScript макрос - ApiPivotDataField.SetValue
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetValue класса ApiPivotDataField
+ * https://r7-consult.ru/
  */
 
 (function() {

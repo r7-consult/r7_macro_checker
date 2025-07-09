@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiRun/Methods/SetVertAlign.js
+ * OnlyOffice JavaScript макрос - ApiRun.SetVertAlign
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetVertAlign класса ApiRun
+ * https://r7-consult.ru/
  */
 
 (function() {

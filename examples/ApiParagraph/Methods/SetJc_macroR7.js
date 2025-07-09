@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiParagraph/Methods/SetJc.js
+ * OnlyOffice JavaScript макрос - ApiParagraph.SetJc
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetJc класса ApiParagraph
+ * https://r7-consult.ru/
  */
 
 (function() {

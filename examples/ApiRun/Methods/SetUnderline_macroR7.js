@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiRun/Methods/SetUnderline.js
+ * OnlyOffice JavaScript макрос - ApiRun.SetUnderline
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetUnderline класса ApiRun
+ * https://r7-consult.ru/
  */
 
 (function() {

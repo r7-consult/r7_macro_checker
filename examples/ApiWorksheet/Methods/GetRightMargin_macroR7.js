@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheet/Methods/GetRightMargin.js
+ * OnlyOffice JavaScript макрос - ApiWorksheet.GetRightMargin
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetRightMargin класса ApiWorksheet
+ * https://r7-consult.ru/
  */
 
 (function() {

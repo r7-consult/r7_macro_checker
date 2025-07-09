@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/FLOOR_PRECISE.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.FLOOR_PRECISE
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода FLOOR_PRECISE класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

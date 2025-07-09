@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/LOGNORM_INV.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.LOGNORM_INV
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода LOGNORM_INV класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

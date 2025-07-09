@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/GAMMADIST.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.GAMMADIST
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GAMMADIST класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

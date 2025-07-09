@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiOleObject/Methods/SetData.js
+ * OnlyOffice JavaScript макрос - ApiOleObject.SetData
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetData класса ApiOleObject
+ * https://r7-consult.ru/
  */
 
 (function() {

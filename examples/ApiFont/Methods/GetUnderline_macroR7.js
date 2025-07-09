@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiFont/Methods/GetUnderline.js
+ * OnlyOffice JavaScript макрос - ApiFont.GetUnderline
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetUnderline класса ApiFont
+ * https://r7-consult.ru/
  */
 
 (function() {

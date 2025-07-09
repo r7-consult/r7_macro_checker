@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/OCT2HEX.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.OCT2HEX
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода OCT2HEX класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotField/Methods/SetLayoutPageBreak.js
+ * OnlyOffice JavaScript макрос - ApiPivotField.SetLayoutPageBreak
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetLayoutPageBreak класса ApiPivotField
+ * https://r7-consult.ru/
  */
 
 (function() {

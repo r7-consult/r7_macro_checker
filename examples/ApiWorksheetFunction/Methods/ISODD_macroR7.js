@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/ISODD.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.ISODD
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода ISODD класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiTextPr/Methods/GetOutLine.js
+ * OnlyOffice JavaScript макрос - ApiTextPr.GetOutLine
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetOutLine класса ApiTextPr
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiTextPr/Methods/SetStrikeout.js
+ * OnlyOffice JavaScript макрос - ApiTextPr.SetStrikeout
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetStrikeout класса ApiTextPr
+ * https://r7-consult.ru/
  */
 
 (function() {

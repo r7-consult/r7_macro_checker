@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/POISSON_DIST.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.POISSON_DIST
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода POISSON_DIST класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

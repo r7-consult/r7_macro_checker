@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: Api/Methods/GetRange.js
+ * OnlyOffice JavaScript макрос - Api.GetRange
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetRange класса Api
+ * https://r7-consult.ru/
  */
 
 (function() {

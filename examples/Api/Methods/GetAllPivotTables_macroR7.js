@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: Api/Methods/GetAllPivotTables.js
+ * OnlyOffice JavaScript макрос - Api.GetAllPivotTables
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetAllPivotTables класса Api
+ * https://r7-consult.ru/
  */
 
 (function() {

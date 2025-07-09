@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/LARGE.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.LARGE
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода LARGE класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

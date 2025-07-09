@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiFreezePanes/Methods/GetLocation.js
+ * OnlyOffice JavaScript макрос - ApiFreezePanes.GetLocation
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetLocation класса ApiFreezePanes
+ * https://r7-consult.ru/
  */
 
 (function() {

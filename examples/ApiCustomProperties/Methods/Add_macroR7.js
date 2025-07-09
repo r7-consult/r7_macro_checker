@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiCustomProperties/Methods/Add.js
+ * OnlyOffice JavaScript макрос - ApiCustomProperties.Add
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода Add класса ApiCustomProperties
+ * https://r7-consult.ru/
  */
 
 (function() {

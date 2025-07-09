@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiCommentReply/Methods/SetAuthorName.js
+ * OnlyOffice JavaScript макрос - ApiCommentReply.SetAuthorName
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetAuthorName класса ApiCommentReply
+ * https://r7-consult.ru/
  */
 
 (function() {

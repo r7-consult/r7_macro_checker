@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiParaPr/Methods/SetIndRight.js
+ * OnlyOffice JavaScript макрос - ApiParaPr.SetIndRight
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetIndRight класса ApiParaPr
+ * https://r7-consult.ru/
  */
 
 (function() {

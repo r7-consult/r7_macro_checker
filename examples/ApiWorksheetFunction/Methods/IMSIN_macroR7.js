@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/IMSIN.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.IMSIN
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода IMSIN класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

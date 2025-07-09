@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/CHISQ_INV.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.CHISQ_INV
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода CHISQ_INV класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

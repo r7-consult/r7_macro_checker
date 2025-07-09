@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/RAND.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.RAND
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода RAND класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

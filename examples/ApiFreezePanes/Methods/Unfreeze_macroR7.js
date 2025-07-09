@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiFreezePanes/Methods/Unfreeze.js
+ * OnlyOffice JavaScript макрос - ApiFreezePanes.Unfreeze
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода Unfreeze класса ApiFreezePanes
+ * https://r7-consult.ru/
  */
 
 (function() {

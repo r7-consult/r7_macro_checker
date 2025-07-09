@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotField/Methods/Remove.js
+ * OnlyOffice JavaScript макрос - ApiPivotField.Remove
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода Remove класса ApiPivotField
+ * https://r7-consult.ru/
  */
 
 (function() {

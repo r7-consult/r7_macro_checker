@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/GAMMALN.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.GAMMALN
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GAMMALN класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiCommentReply/Methods/GetTime.js
+ * OnlyOffice JavaScript макрос - ApiCommentReply.GetTime
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetTime класса ApiCommentReply
+ * https://r7-consult.ru/
  */
 
 (function() {

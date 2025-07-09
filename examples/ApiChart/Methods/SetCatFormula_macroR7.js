@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiChart/Methods/SetCatFormula.js
+ * OnlyOffice JavaScript макрос - ApiChart.SetCatFormula
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetCatFormula класса ApiChart
+ * https://r7-consult.ru/
  */
 
 (function() {

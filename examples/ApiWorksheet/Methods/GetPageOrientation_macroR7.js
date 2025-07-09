@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheet/Methods/GetPageOrientation.js
+ * OnlyOffice JavaScript макрос - ApiWorksheet.GetPageOrientation
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetPageOrientation класса ApiWorksheet
+ * https://r7-consult.ru/
  */
 
 (function() {

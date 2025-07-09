@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/BESSELK.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.BESSELK
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода BESSELK класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

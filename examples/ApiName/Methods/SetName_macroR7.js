@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiName/Methods/SetName.js
+ * OnlyOffice JavaScript макрос - ApiName.SetName
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода SetName класса ApiName
+ * https://r7-consult.ru/
  */
 
 (function() {

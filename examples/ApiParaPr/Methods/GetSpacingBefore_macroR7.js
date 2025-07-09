@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiParaPr/Methods/GetSpacingBefore.js
+ * OnlyOffice JavaScript макрос - ApiParaPr.GetSpacingBefore
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetSpacingBefore класса ApiParaPr
+ * https://r7-consult.ru/
  */
 
 (function() {

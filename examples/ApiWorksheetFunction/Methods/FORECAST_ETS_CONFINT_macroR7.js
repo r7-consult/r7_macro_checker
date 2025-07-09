@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/FORECAST_ETS_CONFINT.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.FORECAST_ETS_CONFINT
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода FORECAST_ETS_CONFINT класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

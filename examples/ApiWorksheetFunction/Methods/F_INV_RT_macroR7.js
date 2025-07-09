@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiWorksheetFunction/Methods/F_INV_RT.js
+ * OnlyOffice JavaScript макрос - ApiWorksheetFunction.F_INV_RT
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода F_INV_RT класса ApiWorksheetFunction
+ * https://r7-consult.ru/
  */
 
 (function() {

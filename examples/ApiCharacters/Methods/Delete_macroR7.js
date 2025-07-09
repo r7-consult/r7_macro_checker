@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiCharacters/Methods/Delete.js
+ * OnlyOffice JavaScript макрос - ApiCharacters.Delete
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода Delete класса ApiCharacters
+ * https://r7-consult.ru/
  */
 
 (function() {

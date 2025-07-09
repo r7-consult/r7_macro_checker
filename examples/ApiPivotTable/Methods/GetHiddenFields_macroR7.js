@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiPivotTable/Methods/GetHiddenFields.js
+ * OnlyOffice JavaScript макрос - ApiPivotTable.GetHiddenFields
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetHiddenFields класса ApiPivotTable
+ * https://r7-consult.ru/
  */
 
 (function() {

@@ -1,11 +1,8 @@
 /**
- * Enhanced OnlyOffice JavaScript DSL Macro
- * Generated from: ApiDrawing/Methods/GetWidth.js
+ * OnlyOffice JavaScript макрос - ApiDrawing.GetWidth
  * 
- * This macro demonstrates proper OnlyOffice API usage with:
- * - Error handling
- * - Comprehensive comments
- * - Production-ready code structure
+ *  Демонстрация использования метода GetWidth класса ApiDrawing
+ * https://r7-consult.ru/
  */
 
 (function() {
