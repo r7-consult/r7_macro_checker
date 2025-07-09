@@ -1,0 +1,131 @@
+{    
+    "name" : "MacroTester 0.1",
+    "guid" : "asc.{799bc64a-8e95-4192-a023-91039542d6d2}",
+    "version": "0.1",
+
+    "variations" : [
+        {
+            "isVisual": true,
+            "description" : "MacroTester",
+            "url": "index.html",
+
+            "icons": [ 
+                "resources/light/XLDB.png",
+                "resources/light/XLDB@2x.png" 
+            ],
+            "icons2": [
+                {
+		    "100%": {
+			"normal": "resources/light/XLDB.png"
+		    },
+		    "125%": {
+			"normal": "resources/light/XLDB@1.25x.png"
+		    },
+		    "150%": {
+			"normal": "resources/light/XLDB@1.5x.png"
+		    },
+		    "175%": {
+			"normal": "resources/light/XLDB@1.75x.png"
+		    },
+		    "200%": {
+			"normal": "resources/light/XLDB@2x.png"
+		    },
+		    "style": "light"
+		},
+		{
+		    "100%": {
+			"normal": "resources/dark/XLDB.png"
+		    },
+		    "125%": {
+			"normal": "resources/dark/XLDB@1.25x.png"
+		    },
+		    "150%": {
+			"normal": "resources/dark/XLDB@1.5x.png"
+		    },
+		    "175%": {
+			"normal": "resources/dark/XLDB@1.75x.png"
+		    },
+		    "200%": {
+			"normal": "resources/dark/XLDB@2x.png"
+		    },
+		    "style": "dark"
+		}
+            ],		
+            "isViewer"        : true,
+            "EditorsSupport"  : ["cell"],
+
+
+            "isModal"         : false,
+            "isInsideMode"    : true,
+
+            "initDataType"    : "none",
+            "initData"        : "",
+	    
+            "isUpdateOleOnResize" : false,            
+	    "events" : ["onDocumentContentReady"],
+            "buttons"         : []            
+        },
+	{
+	    "description" : "About",
+	    "url"         : "about.html",
+
+	    "icons": [ 
+                "resources/light/XLDB.png",
+                "resources/light/XLDB@2x.png" 
+            ],
+            "icons2": [
+                {
+		    "100%": {
+			"normal": "resources/light/XLDB.png"
+		    },
+		    "125%": {
+			"normal": "resources/light/XLDB@1.25x.png"
+		    },
+		    "150%": {
+			"normal": "resources/light/XLDB@1.5x.png"
+		    },
+		    "175%": {
+			"normal": "resources/light/XLDB@1.75x.png"
+		    },
+		    "200%": {
+			"normal": "resources/light/XLDB@2x.png"
+		    },
+		    "style": "light"
+		},
+		{
+		    "100%": {
+			"normal": "resources/dark/XLDB.png"
+		    },
+		    "125%": {
+			"normal": "resources/dark/XLDB@1.25x.png"
+		    },
+		    "150%": {
+			"normal": "resources/dark/XLDB@1.5x.png"
+		    },
+		    "175%": {
+			"normal": "resources/dark/XLDB@1.75x.png"
+		    },
+		    "200%": {
+			"normal": "resources/dark/XLDB@2x.png"
+		    },
+		    "style": "dark"
+		}
+            ],
+	    "isViewer"        : true,
+	    "EditorsSupport"  : ["cell"],
+
+	    "isVisual"     : true,
+	    "isModal"      : true,
+	    "isInsideMode" : false,
+
+	    "initDataType" : "none",
+	    "initData"     : "",
+
+	    "isUpdateOleOnResize" : false,
+
+	    "buttons" : [ { "text": "Ok", "primary": true } ],
+
+	    "size" : [400, 150]
+	}
+    ]
+}

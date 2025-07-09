@@ -1,0 +1,60 @@
+/**
+ * Enhanced OnlyOffice JavaScript DSL Macro
+ * Generated from: ApiWorksheetFunction/Methods/RANK_EQ.js
+ * 
+ * This macro demonstrates proper OnlyOffice API usage with:
+ * - Error handling
+ * - Comprehensive comments
+ * - Production-ready code structure
+ */
+
+(function() {
+    'use strict';
+    
+    try {
+        // Initialize OnlyOffice API
+        const api = Api;
+        if (!api) {
+            throw new Error('OnlyOffice API not available');
+        }
+        
+        // Original code enhanced with error handling:
+        // This example shows how to return the rank of a number in a list of numbers: its size relative to other values in the list. If more than one value has the same rank, the top rank of that set of values is returned.
+        
+        // How to estimate a rank of a number from the list, return top if there are multiple.
+        
+        // Use a function to estimate rank of the a number from the list.
+        
+        const worksheet = Api.GetActiveSheet();
+        
+        let valueArr = [7, 6, 5, 5];
+        
+        // Place the numbers in cells
+        for (let i = 0; i < valueArr.length; i++) {
+          worksheet.GetRange("A" + (i + 1)).SetValue(valueArr[i]);
+        }
+        
+        //method params
+        let number = worksheet.GetRange("A3");
+        let range = worksheet.GetRange("A1:A4");
+        let order = 0;
+        
+        let func = Api.GetWorksheetFunction();
+        let ans = func.RANK_EQ(number, range, order);
+        
+        worksheet.GetRange("C1").SetValue(ans);
+        
+        // Success notification
+        console.log('Macro executed successfully');
+        
+    } catch (error) {
+        console.error('Macro execution failed:', error.message);
+        // Optional: Show error to user
+        if (typeof Api !== 'undefined' && Api.GetActiveSheet) {
+            const sheet = Api.GetActiveSheet();
+            if (sheet) {
+                sheet.GetRange('A1').SetValue('Error: ' + error.message);
+            }
+        }
+    }
+})();
