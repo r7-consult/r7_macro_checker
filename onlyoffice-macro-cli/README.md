@@ -1,6 +1,6 @@
 # OnlyOffice Macro CLI
 
-CLI-инструмент для запуска JavaScript макросов OnlyOffice с комплексной проверкой синтаксиса, валидацией и linteg.
+CLI-инструмент для запуска JavaScript макросов R7/OnlyOffice с комплексной проверкой синтаксиса, валидацией и linteg.
 
 ## Возможности
 
